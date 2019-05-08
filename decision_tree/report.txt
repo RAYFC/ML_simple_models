@@ -1,0 +1,221 @@
+Root
+ |-Attribute ID 14 = 1 
+ | |-Attribute ID 18 = 1 Class : 0   +/- = [0 , 263] 
+ | |-Attribute ID 18 = 2 Class : 0   +/- = [0 , 8] 
+ | |-Attribute ID 18 = 3 Class : 0   +/- = [0 , 5] 
+ | |-Attribute ID 18 = 4 Class : 0   +/- = [0 , 4] 
+ | |-Attribute ID 18 = 5 
+ | | |-Attribute ID 3 = 1 Class : 0   +/- = [0 , 2] 
+ | | |-Attribute ID 3 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 3 = 3 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 3 = 4 Class : 0   +/- = [0 , 2] 
+ | | |-Attribute ID 3 = 5 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 3 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 3 = 7 Class : 1   +/- = [2 , 0] 
+ | | |-Attribute ID 3 = 8 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 3 = 9 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 3 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 6 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 7 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 8 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 9 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 10 Class : 0   +/- = [0 , 1] 
+ |-Attribute ID 14 = 2 
+ | |-Attribute ID 18 = 1 
+ | | |-Attribute ID 19 = 1 Class : 0   +/- = [0 , 11] 
+ | | |-Attribute ID 19 = 2 Class : 0   +/- = [0 , 9] 
+ | | |-Attribute ID 19 = 3 Class : 0   +/- = [0 , 4] 
+ | | |-Attribute ID 19 = 4 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 19 = 5 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 19 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 19 = 7 Class : 0   +/- = [0 , 2] 
+ | | |-Attribute ID 19 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 19 = 9 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 19 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 2 Class : 0   +/- = [0 , 3] 
+ | |-Attribute ID 18 = 3 
+ | | |-Attribute ID 1 = 1 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 2 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 8 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 9 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 4 
+ | | |-Attribute ID 1 = 1 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 3 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 9 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 5 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 6 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 7 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 8 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 9 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 10 Class : 1   +/- = [2 , 0] 
+ |-Attribute ID 14 = 3 
+ | |-Attribute ID 18 = 1 Class : 0   +/- = [0 , 12] 
+ | |-Attribute ID 18 = 2 
+ | | |-Attribute ID 1 = 1 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 6 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 9 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 10 Class : 0   +/- = [0 , 1] 
+ | |-Attribute ID 18 = 3 
+ | | |-Attribute ID 2 = 1 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 2 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 5 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 2 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 2 = 9 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 2 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 4 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 5 
+ | | |-Attribute ID 1 = 1 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 2 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 6 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 9 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 6 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 7 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 8 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 18 = 9 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 18 = 10 
+ | | |-Attribute ID 4 = 1 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 2 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 3 Class : 1   +/- = [2 , 0] 
+ | | |-Attribute ID 4 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 5 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 6 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 4 = 7 Class : 1   +/- = [2 , 0] 
+ | | |-Attribute ID 4 = 8 Class : 1   +/- = [2 , 0] 
+ | | |-Attribute ID 4 = 9 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 10 Class : 1   +/- = [1 , 0] 
+ |-Attribute ID 14 = 4 
+ | |-Attribute ID 13 = 1 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 13 = 2 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 13 = 3 
+ | | |-Attribute ID 1 = 1 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 6 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 8 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 1 = 9 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 13 = 4 Class : 0   +/- = [0 , 2] 
+ | |-Attribute ID 13 = 5 
+ | | |-Attribute ID 4 = 1 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 2 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 3 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 4 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 5 Class : 0   +/- = [0 , 2] 
+ | | |-Attribute ID 4 = 6 Class : 1   +/- = [1 , 0] 
+ | | |-Attribute ID 4 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 8 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 9 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 4 = 10 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 13 = 6 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 13 = 7 Class : 1   +/- = [3 , 0] 
+ | |-Attribute ID 13 = 8 
+ | | |-Attribute ID 1 = 1 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 2 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 3 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 4 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 5 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 6 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 7 Class : 0   +/- = [-1 , -1] 
+ | | |-Attribute ID 1 = 8 Class : 0   +/- = [0 , 1] 
+ | | |-Attribute ID 1 = 9 Class : 1   +/- = [2 , 0] 
+ | | |-Attribute ID 1 = 10 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 13 = 9 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 13 = 10 Class : 1   +/- = [10 , 0] 
+ |-Attribute ID 14 = 5 Class : 1   +/- = [25 , 0] 
+ |-Attribute ID 14 = 6 Class : 1   +/- = [20 , 0] 
+ |-Attribute ID 14 = 7 
+ | |-Attribute ID 7 = 1 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 7 = 2 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 7 = 3 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 7 = 4 Class : 0   +/- = [0 , 1] 
+ | |-Attribute ID 7 = 5 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 7 = 6 Class : 1   +/- = [4 , 0] 
+ | |-Attribute ID 7 = 7 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 7 = 8 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 7 = 9 Class : 1   +/- = [2 , 0] 
+ | |-Attribute ID 7 = 10 Class : 1   +/- = [5 , 0] 
+ |-Attribute ID 14 = 8 
+ | |-Attribute ID 5 = 1 Class : 1   +/- = [4 , 0] 
+ | |-Attribute ID 5 = 2 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 5 = 3 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 5 = 4 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 5 = 5 Class : 1   +/- = [3 , 0] 
+ | |-Attribute ID 5 = 6 Class : 1   +/- = [5 , 0] 
+ | |-Attribute ID 5 = 7 Class : 1   +/- = [4 , 0] 
+ | |-Attribute ID 5 = 8 Class : 0   +/- = [0 , 1] 
+ | |-Attribute ID 5 = 9 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 5 = 10 Class : 1   +/- = [3 , 0] 
+ |-Attribute ID 14 = 9 
+ | |-Attribute ID 2 = 1 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 2 = 2 Class : 0   +/- = [0 , 1] 
+ | |-Attribute ID 2 = 3 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 2 = 4 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 2 = 5 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 2 = 6 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 2 = 7 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 2 = 8 Class : 0   +/- = [-1 , -1] 
+ | |-Attribute ID 2 = 9 Class : 1   +/- = [1 , 0] 
+ | |-Attribute ID 2 = 10 Class : 0   +/- = [-1 , -1] 
+ |-Attribute ID 14 = 10 Class : 1   +/- = [56 , 0] 
+
+train_num_correct =
+
+   546
+
+
+test_num_correct =
+
+   128
+
+>> depth: 1
+Test accuracy : 0.927007
+Train accuracy : 0.930403
+
+depth: 2
+Test accuracy : 0.948905
+Train accuracy : 0.974359
+
+depth: 3
+Test accuracy : 0.934307
+Train accuracy : 1.000000
+
+
+ans =
+
+    0.9304
+    0.9744
+    1.0000
+
+The depth 2 is the best since it has the greatest test accuracy.
